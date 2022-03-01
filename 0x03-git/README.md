@@ -1,4 +1,4 @@
-# This is a modification of my README file
+# This is a re-modification of my README file
 
 This introduces the potential ***Software Engineer*** to the basic of git and github.
 
